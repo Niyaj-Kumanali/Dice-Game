@@ -26,6 +26,3 @@ If you would like to contribute to this project, you can follow these steps:
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me at niyajkumanali@gmail.com
-
-   
-
